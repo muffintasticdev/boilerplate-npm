@@ -2,7 +2,7 @@
 	"author": "M Tabilo",
 	"name": "fcc-learn-npm-package-json",
 	"description": "Nodejs freecodecamp project.",
-	"keywords": ["nodejs", "javascript", "backend"],
+	"keywords": ["nodejs", "javascript", "backend", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
