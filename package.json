@@ -1,6 +1,7 @@
 {
 	"author": "M Tabilo",
 	"name": "fcc-learn-npm-package-json",
+	"description": "Nodejs freecodecamp project.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
